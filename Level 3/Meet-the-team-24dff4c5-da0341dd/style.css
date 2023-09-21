@@ -1,0 +1,23 @@
+div.collegas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    left: 18%;
+    object-position: 50% 50%;
+}
+div.collega{
+    margin: 20px;
+    align-items: center;
+    background-color: lightyellow;
+    border: solid lightyellow 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+div.avatar{
+object-fit: contain;
+}
+h1{
+    text-align: center;
+}
